@@ -16,6 +16,9 @@ Ejecuta los siguientes comandos en tu terminal para instalar las herramientas ne
 
 ```bash
 npm install -g yo generator-code
+yo code
 ```
 
 Este comando instalará Yeoman y el generador de extensiones de Visual Studio Code.
+
+© 2025 Milton Figueredo
